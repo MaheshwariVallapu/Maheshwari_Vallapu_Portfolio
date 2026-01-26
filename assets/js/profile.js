@@ -3,7 +3,7 @@ const PROFILE = {
   linkedin: "https://www.linkedin.com/in/maheshwari-vallapu-86b0641b1/",
   github: "https://github.com/MaheshwariVallapu",
   medium: "https://medium.com/@maheshwarimahi1005",
-  resume: "https://1drv.ms/w/c/22bc417149e2b389/IQAEuvg8295QRKCKVx5Vwo7nAV0gLc6G-aAmd8KTKWAJuAw?e=XNYrPw"
+  resume: "https://1drv.ms/w/c/22bc417149e2b389/IQAEuvg8295QRKCKVx5Vwo7nAV0gLc6G-aAmd8KTKWAJuAw?e=PmGSNp"
 };
 
 function setHref(id, url) {
